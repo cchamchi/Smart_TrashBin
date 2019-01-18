@@ -4,4 +4,4 @@
 
 또한 WiFi를 이용하여 cayenne 과 연동하여 스마트폰으로 제어 하거나 카카오톡으로 휴지통을 비워달라고 메세지를 보낼수 있습니다. 
 
-![drawing](./image/9202039135779.jpg){: height="100px" width="100px"}
+![drawing](./image/9202039135779.jpg){:height="100px"width="100px"}
