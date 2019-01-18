@@ -33,10 +33,9 @@
 
 <img src="./image/9202039104225.jpg" width="30%"><img src="./image/9202039095966.jpg" width="30%">
 
-서보모터를 고정 시킬 브라켓을 3D프린터로 출력하여 장착한다. 
+서보모터를 고정 시킬 브라켓을 3D프린터로 (servo_bracket.stl)  출력하여 장착한다. 
 
 <img src="./image/9202039089759.jpg" width="30%"><img src="./image/9202039075718.jpg" width="30%">
-<img src="./servo_bracket.stl" width="30%"> 
 
 피스로 고정한다.
 
