@@ -20,7 +20,7 @@
 
 # 선연결
 
-<img src="./image/fritz.png" width="60%">
+<img src="./image/fritz.png" width="60%"> 출처 : 
 
 # 제작 과정
 ## 초음파 센서 달기
