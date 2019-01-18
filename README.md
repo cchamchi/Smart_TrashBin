@@ -41,7 +41,7 @@
 
 <img src="./image/9202039089759.jpg" width="30%"><img src="./image/9202039075718.jpg" width="30%">
 
-피스로 고정하면 끝 ~ 참 
+피스로 고정하면 끝 ~ 참 쉽조잉 
 
 <img src="./image/9202039055323.jpg" width="30%"><img src="./image/9202039059007.jpg" width="30%"><img src="./image/9202039038256.jpg" width="30%">
 
