@@ -41,8 +41,15 @@
 
 <img src="./image/9202039089759.jpg" width="30%"><img src="./image/9202039075718.jpg" width="30%">
 
-피스로 고정하면 끝 ~ 참 쉽조잉 servo.write(20) 
+피스로 고정하면 끝 ~ 참 쉽조잉 
 
 <img src="./image/9202039055323.jpg" width="30%"><img src="./image/9202039059007.jpg" width="30%"><img src="./image/9202039038256.jpg" width="30%">
 
+## 서보모터 위치 잡기
+
+servo.write(20)에 놓은 후 뚜껑을 닫고 서보혼과 서보 모터를 연결합니다.
+
+servo.write(110)이면 open, servo.write(20)이면 close입니다.
+
+본인의 작품에 맞게 튜닝해 
 
