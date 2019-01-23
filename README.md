@@ -51,5 +51,5 @@ servo.write(20)에 놓은 후 뚜껑을 닫고 서보혼과 서보 모터를 연
 
 servo.write(110)이면 open, servo.write(20)이면 close입니다.
 
-본인의 작품에 맞게 튜닝해 
+본인의 작품에 맞게 튜닝해 보세요
 
