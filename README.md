@@ -53,4 +53,4 @@ servo.write(110)이면 open, servo.write(20)이면 close입니다.
 
 본인의 작품에 맞게 튜닝해 보세요
 
-[]!(https://github.com/cchamchi/Smart_TrashBin/blob/master/image/KakaoTalk_Photo_2019-10-05-17-49-55.jpeg)
+![](https://github.com/cchamchi/Smart_TrashBin/blob/master/image/KakaoTalk_Photo_2019-10-05-17-49-55.jpeg)
